@@ -2,11 +2,10 @@
 #define LIGHTINGWIDGET_H
 
 #include <QWidget>
-
+#include <QAction>
 #include <memory>
 
 class GLView;
-class QAction;
 
 namespace Ui {
 class LightingWidget;
